@@ -16,7 +16,6 @@ public class Main {
                 }
             }
 
-
             int speed = 0;
             boolean valid = false;
 
